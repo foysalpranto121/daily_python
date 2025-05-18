@@ -41,4 +41,10 @@ print(name)
 #remove
 name.remove("java")
 print(name)
+#Access  list item
+list=["apple","banana","cherry"]
+print(list[1])
+#change list item
+list[1]="kiwi"
+print(list)
 
