@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ade72b27-27fa-4a25-9c74-05021337ba60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +48,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binaryTypedata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.format.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sequenceTypeData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.swapping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_casting and Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_casting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_input.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Datatype.executor": "Run",
+    "Python.binaryTypedata.executor": "Run",
+    "Python.day2.executor": "Run",
+    "Python.format.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.matrix.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.sequenceTypeData.executor": "Run",
+    "Python.swapping.executor": "Run",
+    "Python.type_casting and Lists.executor": "Run",
+    "Python.type_casting.executor": "Run",
+    "Python.user_input.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Python.loop">
+}]]></component>
+  <component name="RunManager" selected="Python.matrix">
     <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -94,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matrix" />
         <item itemvalue="Python.loop" />
         <item itemvalue="Python.type_casting and Lists" />
         <item itemvalue="Python.user_input" />
         <item itemvalue="Python.swapping" />
-        <item itemvalue="Python.operators" />
       </list>
     </recent_temporary>
   </component>

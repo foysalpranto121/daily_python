@@ -1,0 +1,9 @@
+#matrix
+matrix=[
+    [1,2,3,4,5],#item
+    [6,7,8,9,10],#index
+]
+matrix[0][1]=100
+print(matrix)
+matrix[1][2]
+print(matrix[1][2])
