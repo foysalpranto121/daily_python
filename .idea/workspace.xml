@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ade72b27-27fa-4a25-9c74-05021337ba60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
     "Python.operators.executor": "Run",
     "Python.sequenceTypeData.executor": "Run",
     "Python.swapping.executor": "Run",
+    "Python.tuple.executor": "Run",
     "Python.type_casting and Lists.executor": "Run",
     "Python.type_casting.executor": "Run",
     "Python.user_input.executor": "Run",
@@ -71,7 +73,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.matrix">
+  <component name="RunManager" selected="Python.tuple">
     <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -116,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swapping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuple" />
         <item itemvalue="Python.matrix" />
         <item itemvalue="Python.loop" />
         <item itemvalue="Python.type_casting and Lists" />
         <item itemvalue="Python.user_input" />
-        <item itemvalue="Python.swapping" />
       </list>
     </recent_temporary>
   </component>
