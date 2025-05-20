@@ -15,6 +15,10 @@ while y < len(list):
     print(list[y])
     y=y+1
 
+
+
+
+
 # list comphrehension
 number=[1,2,3,4,5]
 #condition expression
@@ -46,3 +50,14 @@ list2=[4,5,6]
 list3=list1+list2
 print(list3)
 
+##more loop
+rahim =0
+while rahim < 10:
+    print("yes u are rahim",rahim)
+    rahim=rahim+1
+friends=["rahim","kodu","kasem","asim","kamal"]
+for friend in friends:
+    if friend == "kodu":
+       break
+        #continue
+    print(friend)
