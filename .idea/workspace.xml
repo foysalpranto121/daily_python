@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ade72b27-27fa-4a25-9c74-05021337ba60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else condition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.binaryTypedata.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.format.executor": "Run",
+    "Python.if else condition.executor": "Run",
     "Python.loop.executor": "Run",
     "Python.main.executor": "Run",
     "Python.matrix.executor": "Run",
@@ -76,8 +77,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.python dictionaries">
-    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.if else condition">
+    <configuration name="if else condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if else condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if else condition" />
         <item itemvalue="Python.python dictionaries" />
         <item itemvalue="Python.sets" />
         <item itemvalue="Python.tuple" />
         <item itemvalue="Python.matrix" />
-        <item itemvalue="Python.loop" />
       </list>
     </recent_temporary>
   </component>
