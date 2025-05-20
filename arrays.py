@@ -1,0 +1,13 @@
+#Array
+MyArray=[1,2,3,4,5]
+print(MyArray)
+print(MyArray[0])
+print(MyArray[1])
+print(MyArray[2])
+print(MyArray[3])
+print(MyArray[4])
+print(MyArray[-1])
+print(MyArray[-2])
+print(MyArray[-3])
+print(MyArray[-4])
+print(MyArray[-5])
