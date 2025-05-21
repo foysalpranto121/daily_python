@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ade72b27-27fa-4a25-9c74-05021337ba60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/math_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Datatype.executor": "Run",
     "Python.OOB (1).executor": "Run",
+    "Python.Regular_expression.executor": "Run",
     "Python.arrays.executor": "Run",
     "Python.binaryTypedata.executor": "Run",
     "Python.break,continue.executor": "Run",
@@ -86,8 +87,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.math_function">
-    <configuration name="OOB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Regular_expression">
+    <configuration name="Regular_expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Regular_expression" />
         <item itemvalue="Python.math_function" />
         <item itemvalue="Python.date_time" />
         <item itemvalue="Python.datetime" />
         <item itemvalue="Python.iterators" />
-        <item itemvalue="Python.OOB (1)" />
       </list>
     </recent_temporary>
   </component>
