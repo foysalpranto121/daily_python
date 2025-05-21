@@ -1,0 +1,8 @@
+x=max(10,120,30)
+print(x)
+x=min(10,120,30)
+print(x)
+m=abs(-10,)
+print(m)
+l=pow(2,3) #( x  to the power y)
+print(l)
